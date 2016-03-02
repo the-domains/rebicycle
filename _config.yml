@@ -1,0 +1,14 @@
+layout_spectrum: 0.9042553
+typography_spectrum: 0.3510638
+color:
+  saturation: 0.6723405
+  lightness: 0.3531915
+  brandStrength: 0.9558262
+  brandColors:
+    - '#99FF00'
+    - '#00244D'
+    - '#000000'
+    - '#4C7E00'
+    - '#00197F'
+  rhythmicContrast: 0.8574468
+name: ReBicycle
